@@ -152,26 +152,26 @@ fcitx5-configtool => "Input Method" => "Available Input Method" => Search Input 
 
 ```
 Shift + Alt + Q      dwm 종료하기
-Shift + Alt +          Enter  터미널 실행하기
-Alt + P                    dmenu 열기
+Shift + Alt +        Enter  터미널 실행하기
+Alt + P              dmenu 열기
 Shift + Alt + C      현재 창 닫기
 
-Alt + j, k                창 커서 이동하기
-Alt + h, l                마스터 창 크기 조절하기
-Alt + d, i                창 마스터/스택으로 이동하기
-Alt + Enter            마스터 창과 스택 바꾸기
-Alt + 1...9               해당 숫자 태그로 이동하기
+Alt + j, k           창 커서 이동하기
+Alt + h, l           마스터 창 크기 조절하기
+Alt + d, i           창 마스터/스택으로 이동하기
+Alt + Enter          마스터 창과 스택 바꾸기
+Alt + 1...9          해당 숫자 태그로 이동하기
 Shift + Alt + 1...9  현재 창 해당 태그로 보내기
 
 # 레이아웃
-Alt + t                 타일 모드
-Alt + f                 플로팅 모드
-Alt + m               모노클 모드
+Alt + t              타일 모드
+Alt + f              플로팅 모드
+Alt + m              모노클 모드
 
 ## 플로팅 모드
-Alt + 우클릭               창 크기 조절하기
-Alt + 좌클릭               창 위치 이동하기
-Shift + Alt + Space   플로팅 전환하기
+Alt + 우클릭          창 크기 조절하기
+Alt + 좌클릭          창 위치 이동하기
+Shift + Alt + Space  플로팅 전환하기
 ```
 
 
