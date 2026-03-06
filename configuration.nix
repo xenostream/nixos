@@ -102,7 +102,7 @@
   # You can use https://search.nixos.org/ to find more packages (and options).
   environment.systemPackages = with pkgs; [
   #   vim # Do not forget to add an editor to edit configuration.nix! The Nano editor is also installed by default.
-   dmenu git alacritty vim fzf fd ripgrep ntfs3g bat btop cmus pavucontrol curl wget
+   dmenu git alacritty vim fzf fd ripgrep ntfs3g bat btop cmus pavucontrol curl wget neovim nil nixpkgs-fmt gcc nodejs
 
    (pkgs.writeShellScriptBin "st" ''
      exec ${pkgs.alacritty}/bin/alacritty "$@"
