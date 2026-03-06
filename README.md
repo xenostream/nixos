@@ -48,6 +48,8 @@ hardware.nvidia = {
 
 # boot.kernelParams = [ "nvidia NVreg_PreserveVideoMemoryAllocations=1" ];
 
+programs.firefox.enable = true;
+
 users.defaultUserShell = pkgs.zsh;
 programs.zsh = {
   enable = true;
